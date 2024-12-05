@@ -1,0 +1,102 @@
+{
+    "MICRO_AVG": {
+        "acc": 0.6192,
+        "f1-score": 0.619
+    },
+    "MACRO_AVG": {
+        "acc": 0.392,
+        "f1-score": 0.3917
+    },
+    "tags": {
+        "ARTIFACT": {
+            "tp": 18,
+            "fp": 27,
+            "fn": 93,
+            "tn": 18,
+            "precision": 0.4,
+            "recall": 0.1622,
+            "accuracy": 0.2308,
+            "f1-score": 0.2308
+        },
+        "ARTIFACT:head><NE:ARTIFACT": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 1,
+            "tn": 0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "accuracy": 0.0,
+            "f1-score": 0.0
+        },
+        "DATE": {
+            "tp": 88,
+            "fp": 29,
+            "fn": 49,
+            "tn": 88,
+            "precision": 0.7521,
+            "recall": 0.6423,
+            "accuracy": 0.6929,
+            "f1-score": 0.6929
+        },
+        "LOCATION": {
+            "tp": 240,
+            "fp": 105,
+            "fn": 52,
+            "tn": 240,
+            "precision": 0.6957,
+            "recall": 0.8219,
+            "accuracy": 0.7535,
+            "f1-score": 0.7535
+        },
+        "MONEY": {
+            "tp": 7,
+            "fp": 4,
+            "fn": 1,
+            "tn": 7,
+            "precision": 0.6364,
+            "recall": 0.875,
+            "accuracy": 0.7368,
+            "f1-score": 0.7368
+        },
+        "ORGANIZATION": {
+            "tp": 57,
+            "fp": 54,
+            "fn": 82,
+            "tn": 58,
+            "precision": 0.5135,
+            "recall": 0.4101,
+            "accuracy": 0.4582,
+            "f1-score": 0.456
+        },
+        "PERCENT": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 8,
+            "tn": 0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "accuracy": 0.0,
+            "f1-score": 0.0
+        },
+        "PERSON": {
+            "tp": 79,
+            "fp": 33,
+            "fn": 50,
+            "tn": 79,
+            "precision": 0.7054,
+            "recall": 0.6124,
+            "accuracy": 0.6556,
+            "f1-score": 0.6556
+        },
+        "TIME": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 14,
+            "tn": 0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "accuracy": 0.0,
+            "f1-score": 0.0
+        }
+    }
+}

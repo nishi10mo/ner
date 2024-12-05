@@ -1,0 +1,18 @@
+{
+    "B-ORGANIZATION": 971,
+    "I-ORGANIZATION": 1495,
+    "B-PERSON": 774,
+    "B-ARTIFACT": 766,
+    "I-ARTIFACT": 1220,
+    "I-PERSON": 480,
+    "B-LOCATION": 2249,
+    "I-LOCATION": 1415,
+    "B-PERCENT": 88,
+    "I-PERCENT": 76,
+    "B-DATE": 1339,
+    "I-DATE": 1997,
+    "B-MONEY": 106,
+    "I-MONEY": 107,
+    "B-TIME": 76,
+    "I-TIME": 80
+}
